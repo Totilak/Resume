@@ -26,7 +26,7 @@ E-mail: ura2014290@gmail.com
   - Больше в профиле...
 - **Веб-приложение на ASP.NET** — поиск товаров в общем серверном списке.  
 
-GitHub со всеми проектами: [github.com/Totilak](https://github.com/Totilak)  
+GitHub со всеми проектами: [Totilak](https://github.com/Totilak)  
 
 
 ## Навыки
